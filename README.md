@@ -9,4 +9,5 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 
 - [Understanding Git Merge](https://www.biteinteractive.com/understanding-git-merge/)
 
-  
+## Frontend
+- [Javascript Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
