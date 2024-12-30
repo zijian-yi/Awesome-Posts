@@ -15,3 +15,6 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 
 ## Distributed Systems
 - [Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
+
+## Compiler
+- [IR Design](https://cr.openjdk.org/~jrose/draft/code-media.html)
