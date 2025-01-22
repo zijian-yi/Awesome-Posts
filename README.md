@@ -22,6 +22,9 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Compiler
 - [IR Design](https://cr.openjdk.org/~jrose/draft/code-media.html)
 
+## Deep Learning
+- [The Three Elements of PyTorch](https://www.youtube.com/watch?v=nf-r9gnum7o)
+
 ## Blogs
 - [Eli Bendersky](https://eli.thegreenplace.net/) (Various topics)
 - [Alex Kladov](https://matklad.github.io/) (Rust LSP)
