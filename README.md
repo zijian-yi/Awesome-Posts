@@ -22,6 +22,10 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Compiler
 - [IR Design](https://cr.openjdk.org/~jrose/draft/code-media.html)
 
+## GPU
+- [How GPU computing works](https://youtu.be/3l10o0DYJXg?si=vFmRovrMwZHqxalR)
+- [How CUDA Programming works](https://youtu.be/n6M8R8-PlnE?si=5RdPJvM22BF_3O4p)
+
 ## Deep Learning
 - [The Three Elements of PyTorch](https://www.youtube.com/watch?v=nf-r9gnum7o)
 
