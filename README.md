@@ -32,3 +32,5 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Blogs
 - [Eli Bendersky](https://eli.thegreenplace.net/) (Various topics)
 - [Alex Kladov](https://matklad.github.io/) (Rust LSP)
+- [Benedikt Meurer](https://benediktmeurer.de/) (JS Engine)
+- [ezyang](https://blog.ezyang.com/) (PL + Pytorch)
