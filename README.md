@@ -9,6 +9,7 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 
 ## Frontend
 - [Javascript Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Speculative Optimization in V8](https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/)
 
 ## Functional Programming
 - [Functor & Monad](https://youtu.be/e6tWJD5q8uw?si=a5SZTOHwMakYRhax)
@@ -28,6 +29,7 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 
 ## Deep Learning
 - [The Three Elements of PyTorch](https://www.youtube.com/watch?v=nf-r9gnum7o)
+- [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
 
 ## Blogs
 - [Eli Bendersky](https://eli.thegreenplace.net/) (Various topics)
