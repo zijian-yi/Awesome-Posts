@@ -23,6 +23,10 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Compiler
 - [IR Design](https://cr.openjdk.org/~jrose/draft/code-media.html)
 
+## eBPF
+- [Quick Intro](https://www.youtube.com/watch?v=KhPrMW5Rbbc)
+- [How Does eBPF Actually Work?](https://www.youtube.com/watch?v=cy1t5fBBt7E)
+
 ## GPU
 - [How GPU computing works](https://youtu.be/3l10o0DYJXg?si=vFmRovrMwZHqxalR)
 - [How CUDA Programming works](https://youtu.be/n6M8R8-PlnE?si=5RdPJvM22BF_3O4p)
