@@ -20,6 +20,7 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 
 ## JVM
 - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
+- [The Sea of Nodes and the HotSpot JIT](https://www.youtube.com/watch?v=9epgZ-e6DUU&t=272s)
 
 ## Compiler
 - [IR Design](https://cr.openjdk.org/~jrose/draft/code-media.html)
