@@ -43,3 +43,4 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 - [Benedikt Meurer](https://benediktmeurer.de/) (JS Engine)
 - [ezyang](https://blog.ezyang.com/) (PL + Pytorch)
 - [doar-e](https://doar-e.github.io/index.html) (security)
+- [samcurry](https://samcurry.net/) (security)
