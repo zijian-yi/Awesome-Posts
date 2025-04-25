@@ -12,7 +12,8 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 - [Speculative Optimization in V8](https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/)
 - [JavaScript Engines: The Good Parts (Shapes and Inline Cache)](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-## Functional Programming
+## Programming Languages
+- [The Power of Prolog](https://www.metalevel.at/prolog)
 - [Functor & Monad](https://youtu.be/e6tWJD5q8uw?si=a5SZTOHwMakYRhax)
 
 ## Distributed Systems
