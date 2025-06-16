@@ -49,5 +49,6 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 - [samcurry](https://samcurry.net/) (security)
 - [nLab](https://ncatlab.org/nlab/show/HomePage) (Mathematics, Physics, and Philosophy)
 - [PLS Lab](https://www.pls-lab.org/) (PL)
+- [Max Bernstein](https://bernsteinbear.com/) (PL)
 
 ## Misc
