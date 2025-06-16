@@ -11,6 +11,8 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 - [Javascript Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Speculative Optimization in V8](https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/)
 - [JavaScript Engines: The Good Parts (Shapes and Inline Cache)](https://www.youtube.com/watch?v=5nmpokoRaZI)
+- [Detailed Intro to JavaScriptCore JIT Compiler](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+- [Detailed Intro to JavaScriptCore Garbage Collector](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 
 ## Programming Languages
 - [The Power of Prolog](https://www.metalevel.at/prolog)
@@ -45,3 +47,7 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 - [ezyang](https://blog.ezyang.com/) (PL + Pytorch)
 - [doar-e](https://doar-e.github.io/index.html) (security)
 - [samcurry](https://samcurry.net/) (security)
+- [nLab](https://ncatlab.org/nlab/show/HomePage) (Mathematics, Physics, and Philosophy)
+- [PLS Lab](https://www.pls-lab.org/) (PL)
+
+## Misc
