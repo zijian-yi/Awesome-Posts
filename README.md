@@ -50,5 +50,4 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 - [nLab](https://ncatlab.org/nlab/show/HomePage) (Mathematics, Physics, and Philosophy)
 - [PLS Lab](https://www.pls-lab.org/) (PL)
 - [Max Bernstein](https://bernsteinbear.com/) (PL)
-
-## Misc
+- [Gil Mizrahi](https://gilmi.me/home) (FP, Compilers)
