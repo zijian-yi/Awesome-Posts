@@ -17,7 +17,7 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Programming Languages
 - [The Power of Prolog](https://www.metalevel.at/prolog)
 - [Functor & Monad](https://youtu.be/e6tWJD5q8uw?si=a5SZTOHwMakYRhax)
-- [Prolog](https://www.metalevel.at/prolog)
+- [Power of Prolog](https://www.metalevel.at/prolog)
 
 ## Distributed Systems
 - [Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
@@ -40,6 +40,9 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Deep Learning
 - [The Three Elements of PyTorch](https://www.youtube.com/watch?v=nf-r9gnum7o)
 - [PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
+
+## Graphics
+- [Learn OpenGL](https://learnopengl.com/)
 
 ## Blogs
 - [Eli Bendersky](https://eli.thegreenplace.net/) (Various topics)
