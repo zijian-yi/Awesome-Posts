@@ -17,6 +17,7 @@ A curated list of technical blogs/videos/courses/books I found helpful for under
 ## Programming Languages
 - [The Power of Prolog](https://www.metalevel.at/prolog)
 - [Functor & Monad](https://youtu.be/e6tWJD5q8uw?si=a5SZTOHwMakYRhax)
+- [Prolog](https://www.metalevel.at/prolog)
 
 ## Distributed Systems
 - [Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
